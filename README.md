@@ -4,5 +4,4 @@ This is a repository that contains a notebook which creates a model to predict t
 
 [Link for Blog on Medium](https://medium.com/@Richard_Olson/nfl-plays-are-they-predictable-and-does-it-matter-d5f3b20548f3)
 
-
 [Link for the app on heroku](https://nfl-plays-predictor.herokuapp.com/)
