@@ -1,6 +1,6 @@
 ## nfl_2019_play_by_play
 
-This is a repository that contains a notebook which creates a model to predict the type of play which will occurr.  IE. (pass or run). Contained here is data from 2016 to 2019 nfl play by play. The model that is created here will be used in the nfl_play_predictor dash app.
+Are NFL teams predictable in the type of plays that they call?  Are some teams more predictable than other teams and does it matter?  This repository contains a notebook where nfl play by play data is used to create a model to predict the types of play, (a pass or run).  The data used is from 2016 to 2019.  A model hat was trained is used in a nfl_play_predictor [app](https://nfl-plays-predictor.herokuapp.com/).   
 
 [Link for Blog on Medium](https://medium.com/@Richard_Olson/nfl-plays-are-they-predictable-and-does-it-matter-d5f3b20548f3)
 
